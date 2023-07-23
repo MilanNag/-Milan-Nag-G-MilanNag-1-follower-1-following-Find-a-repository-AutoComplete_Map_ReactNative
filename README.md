@@ -1,1 +1,5 @@
-# -Milan-Nag-G-MilanNag-1-follower-1-following-Find-a-repository-AutoComplete_Map_ReactNative
+Google Maps with Place Autocomplete using React-Native, Expo CLI
+
+Steps as below,
+
+Clone the project copy to your local machine. Open the terminal in your target folder and run "npm install" to install all the dependencies. Run "npm run android" to run the application on Android simulator. Run "npm run ios" to run the application on IOS simulator. Run "npm run web" to run the application on web.
